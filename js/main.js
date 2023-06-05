@@ -164,8 +164,7 @@ const modal = document.querySelector(".modal");
 const img = document.querySelectorAll(".project__img");
 const modalImg = document.querySelector(".modal__img");
 
-const arr = ["img/gif/1.gif", "img/gif/2.gif",
-    "img/gif/3.gif", "img/gif/4.gif"]
+const arr = ["img/basca.gif", "img/IIS_dashboard.png", "img/CSN.png", "img/terraform.png"]
 
 
 for (let i = 0; i < img.length; i++) {
